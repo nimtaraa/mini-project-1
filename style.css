@@ -1,0 +1,9 @@
+#carouselfd{
+    position: relative;
+    overflow: hidden;
+}
+#myvdo{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
